@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#API Keys
+config.py
+config.js
+
+# MAC System file
+.DS_Store
